@@ -1,0 +1,22 @@
+{
+  "name": "srinu-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinu-25/srinu-converter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srinu-25/srinu-converter/issues"
+  },
+  "homepage": "https://github.com/srinu-25/srinu-converter#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
